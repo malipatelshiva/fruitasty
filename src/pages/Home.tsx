@@ -1,6 +1,7 @@
-import { ArrowRight, Leaf, Users, TrendingUp, Phone, Globe } from 'lucide-react'; 
+import { ArrowRight, Leaf, Users, TrendingUp, Phone, Globe } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import Gallery from "../components/Gallery";
+
 
 
 function Home() {
