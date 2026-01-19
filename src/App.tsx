@@ -3,6 +3,8 @@ import Home from './pages/Home';
 import Fruitasty from './pages/Fruitasty';
 import YumYumWaffles from './pages/YumYumWaffles';
 import Burgerz from './pages/Burgerz';
+import Gallery from "./components/Gallery";
+
 
 function App() {
   return (
