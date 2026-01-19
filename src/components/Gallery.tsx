@@ -3,17 +3,15 @@ const images = [
   "https://i.postimg.cc/pVkJVqvB/gallery-12.jpg",
   "https://i.postimg.cc/GpsXHYKt/gallery-1.jpg",
   "https://i.postimg.cc/mrbrrNB9/gallery-2.jpg",
-
-  // // Random placeholder images (safe)
-  // "https://picsum.photos/600/400?random=1",
-  // "https://picsum.photos/600/400?random=2",
-  // "https://picsum.photos/600/400?random=3",
-  // "https://picsum.photos/600/400?random=4",
-  // "https://picsum.photos/600/400?random=5",
-  // "https://picsum.photos/600/400?random=6",
-  // "https://picsum.photos/600/400?random=7",
-  // "https://picsum.photos/600/400?random=8",
-  // "https://picsum.photos/600/400?random=9",
+  "https://i.postimg.cc/xd0ddynJ/gallery-3.jpg",
+  "https://i.postimg.cc/0N8NNdPJ/gallery-4.jpg",
+  "https://i.postimg.cc/mhfLW7mc/gallery-5.jpg",
+  "https://i.postimg.cc/vm3ZxgZj/gallery-6.jpg",
+  "https://i.postimg.cc/d04VZk0F/gallery-7.jpg",
+  "https://i.postimg.cc/Tws2Qzmj/gallery-8.jpg",
+  "https://i.postimg.cc/RCjKZ88t/gallery-9.jpg",
+  "https://i.postimg.cc/bNkbDgc9/gallery-10.jpg",
+  "https://i.postimg.cc/bNkbDgcQ/gallery-11.jpg",
 ];
 
 
