@@ -1,5 +1,7 @@
 import { ArrowRight, Leaf, Users, TrendingUp, Phone, Globe } from 'lucide-react';
 import { Link } from 'react-router-dom';
+import Gallery from "../components/Gallery";
+
 
 function Home() {
   return (
@@ -173,6 +175,11 @@ function Home() {
           </div>
         </div>
       </section>
+
+        {/* Gallery Section */}
+      <Gallery />
+
+      <section id="franchise" className="bg-white py-24">
 
       <section id="franchise" className="bg-white py-24">
         <div className="container mx-auto px-6 max-w-6xl">
