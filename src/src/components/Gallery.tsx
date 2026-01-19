@@ -1,16 +1,16 @@
 const images = [
-  "WhatsApp Image 2026-01-19 at 11.56.53 (3).jpeg",
-  "WhatsApp Image 2026-01-19 at 11.56.53 (2).jpeg",
-  "WhatsApp Image 2026-01-19 at 11.56.53 (1).jpeg",
-  "WhatsApp Image 2026-01-19 at 11.56.53.jpeg",
-  "WhatsApp Image 2026-01-19 at 11.56.52.jpeg",
-  "WhatsApp Image 2026-01-19 at 11.41.25.jpeg",
-  "WhatsApp Image 2026-01-19 at 11.41.22.jpeg",
-  "WhatsApp Image 2026-01-19 at 11.41.25 (1).jpeg",
-  "WhatsApp Image 2026-01-19 at 11.41.26.jpeg",
-  "WhatsApp Image 2026-01-19 at 11.41.27.jpeg",
-  "WhatsApp Image 2026-01-19 at 11.41.24.jpeg",
-  "WhatsApp Image 2026-01-19 at 11.41.26 (3).jpeg",
+  "https://i.postimg.cc/pVkJVqvB/gallery-12.jpg",
+  "https://i.postimg.cc/GpsXHYKt/gallery-1.jpg",
+  "https://i.postimg.cc/mrbrrNB9/gallery-2.jpg",
+  // "WhatsApp Image 2026-01-19 at 11.56.53.jpeg",
+  // "WhatsApp Image 2026-01-19 at 11.56.52.jpeg",
+  // "WhatsApp Image 2026-01-19 at 11.41.25.jpeg",
+  // "WhatsApp Image 2026-01-19 at 11.41.22.jpeg",
+  // "WhatsApp Image 2026-01-19 at 11.41.25 (1).jpeg",
+  // "WhatsApp Image 2026-01-19 at 11.41.26.jpeg",
+  // "WhatsApp Image 2026-01-19 at 11.41.27.jpeg",
+  // "WhatsApp Image 2026-01-19 at 11.41.24.jpeg",
+  // "WhatsApp Image 2026-01-19 at 11.41.26 (3).jpeg",
 ];
 
 const Gallery = () => {
